@@ -12,7 +12,8 @@ body {
 
 .index,
 .about, 
-.portfolio 
+.portfolio,
+.contact
 {
     color: #EEC759;
     font-size: x-large;
@@ -30,6 +31,10 @@ body {
     box-shadow:0 0 10px 5px #EEC759; ;
 }
 .portfolio:hover{
+    
+    box-shadow:0 0 10px 5px #EEC759; ;
+}
+.contact:hover{
     
     box-shadow:0 0 10px 5px #EEC759; ;
 }

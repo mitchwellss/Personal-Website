@@ -35,13 +35,32 @@ nav{
 
 .index,
 .about, 
-.portfolio 
+.portfolio,
+.contact
 {
     color: #EEC759;
     font-size: x-large;
     margin: 0 10px;
     text-shadow: 1px 1px 1px  black;
 }
+
+.index:hover{
+    
+    box-shadow:0 0 10px 5px #EEC759; ;
+}
+.about:hover{
+    
+    box-shadow:0 0 10px 5px #EEC759; ;
+}
+.portfolio:hover{
+    
+    box-shadow:0 0 10px 5px #EEC759; ;
+}
+.contact:hover{
+    
+    box-shadow:0 0 10px 5px #EEC759; ;
+}
+
 nav{
     box-shadow: 0 0 10px 5px #EEC759;
       position: fixed;
