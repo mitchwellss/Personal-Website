@@ -110,4 +110,9 @@ p{
     color:#EEC759;
     text-shadow: 1px 1px 1px  black;
   }
-  
+  a{
+    color: #EEC759;
+    font-size: x-large;
+    margin: 0 10px;
+    text-shadow: 1px 1px 1px black;
+}

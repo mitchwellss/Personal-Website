@@ -114,4 +114,13 @@ form, input [type=text], select, textarea{
     resize: vertical;
   }
   
- 
+  .index,
+  .about, 
+  .portfolio,
+  .contact,
+  {
+      color: #EEC759;
+      font-size: x-large;
+      margin: 0 10px;
+      text-shadow: 1px 1px 1px  black;
+  }

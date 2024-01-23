@@ -123,3 +123,13 @@ main {
     font-size: 25px;
     background-color: #9BB8CD;
  }
+ .index,
+.about, 
+.portfolio,
+.contact,
+{
+    color: #EEC759;
+    font-size: x-large;
+    margin: 0 10px;
+    text-shadow: 1px 1px 1px  black;
+}
